@@ -3,7 +3,7 @@
 <p align="center"><img style="filter: grayscale(100%);" width="200" src="https://i0.wp.com/mmkernel.com/wp-content/uploads/2022/11/momcilo-milic.jpg" alt="Momcilo Milic"></p>
 
 <p align="center">
-I’m a Freelance Python Developer and Full Stack Web Developer based in Frankfurt am Main, Germany. With almost 20 years experience, I have acquired the skills and knowledge necessary to make your project a success. I am focused on crafting clean & user-friendly experiences, and building excellent software that improves the lives of those around me.
+I’m a Freelance Python Developer and Data Analyst based in Frankfurt am Main, Germany. With almost 20 years experience, I have acquired the skills and knowledge necessary to make your project a success. I am focused on crafting clean & user-friendly experiences, and building excellent software that improves the lives of those around me.
 I Develop Skills Regularly to Keep Me Update. Ethical Hacking, Blogging and Blockchain technology are my hobbies.
 </p>
 <p align="center"> 🌐 www.mmkernel.com | 📫 info@mmkernel.com</p>
